@@ -1,3 +1,3 @@
 # apnacollage-demo
 This is my first git repository
-Author-Kunal jejurkar
+Author-Kunal jejurkar(kunal)
